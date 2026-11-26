@@ -1,8 +1,8 @@
 {
-  "versao": "1.0.3",
-  "arquivo": "tabela-periodica_1.0.3_arm64.deb",
-  "sha256": "0d362b0282f920f612c4eb9621e3b6a6c2466fc5d4f0d8a7086ec06858555d51",
-  "backend": "f99988f",
-  "frontend": "cadbae2",
-  "data": "2026-11-26T19:50:42.527Z"
+  "versao": "1.0.4",
+  "arquivo": "tabela-periodica_1.0.4_arm64.deb",
+  "sha256": "69870ee5d354dab343ef0729910954bece0ce32dbd7ef8ddc7f4cbed24fbc08b",
+  "backend": "331e1ec",
+  "frontend": "7980978",
+  "data": "2026-11-26T22:54:50.924Z"
 }
